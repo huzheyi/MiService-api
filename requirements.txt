@@ -1,4 +1,6 @@
 aiohttp
 mutagen
 rich
-
+fastapi
+pydantic
+uvicorn
