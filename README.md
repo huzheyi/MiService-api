@@ -1,6 +1,12 @@
 # MiService
-XiaoMi Cloud Service for mi.com 
-This is a fork from https://github.com/Yonsm/MiService made some change for xiaogpt
+XiaoMi Cloud Service for mi.com support api
+This is a fork from https://github.com/yihong0618/MiService and https://github.com/Yonsm/MiService
+
+为了方便与其他系统整合调用miservice的服务，加了一个server.py，用以支持api调用
+
+`pip install aiohttp mutagen rich fastapi pydantic uvicorn`
+
+> 接口文档 http://localhost:8000/docs
 
 # 如果有无法登陆的问题请参考置顶 issue, 如果还是不行请留言
 
