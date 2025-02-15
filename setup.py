@@ -14,12 +14,12 @@ from setuptools import setup
 
 setup(
     name="miservice_fork",
-    description="XiaoMi Cloud Service fork from https://github.com/Yonsm/MiService",
+    description="XiaoMi Cloud Service fork from https://github.com/yihong0618/MiService",
     version="2.7.1",
     license="MIT",
     author="Yonsm, yihong0618, huzheyi",
     author_email="Yonsm@qq.com, zouzou0208@gmail.com, huzheyi@msn.com",
-    url="https://github.com/yihong0618/MiService",
+    url="https://github.com/huzheyi/MiService-api.git",
     packages=["miservice"],
     scripts=["micli.py"],
     python_requires=">=3.8",

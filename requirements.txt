@@ -4,3 +4,4 @@ rich
 fastapi
 pydantic
 uvicorn
+setuptools
