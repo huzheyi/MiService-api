@@ -26,7 +26,7 @@ docker run -itd \
   -e MI_PASS="YourMIPass" \
   -e MI_DID="YourMIDid" \
   -p 8000:8000 \
-  miservice-api:latest
+  ghcr.io/huzheyi/miservice-api:latest
 ```
 
 > 接口文档 http://localhost:8000/docs (FastAPI自动生成)
